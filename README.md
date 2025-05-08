@@ -1,0 +1,1 @@
+# comprovante-bot-pages
